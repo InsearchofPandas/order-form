@@ -1,0 +1,26 @@
+[
+  {
+    "description": "gizmos",
+    "price": 3.99
+  },
+  {
+    "description": "sprockets",
+    "price": 2.25
+  },
+  {
+    "description": "widgets",
+    "price": 6.00
+  },
+  {
+    "description": "contraptions",
+    "price": 11.75
+  },
+  {
+    "description": "gadgets",
+    "price": 8.99
+  },
+  {
+    "description": "dingbats",
+    "price": 0.77
+  }
+]
